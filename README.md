@@ -23,3 +23,5 @@ List the ongoing process on the machine
 
 First save the script.sh file than change the mode bits with the help of "chmod 755 script.sh"
 than you are ready to go just run './script.sh'. 
+
+Don't forget to hit 'q' to see the result of TOP command in static way.
